@@ -19,3 +19,5 @@ c = a*b
 print("c=", c)
 print("This is working well.") # Here is a check for the update
 # it looks like it is not running by the schedular
+#
+# on a second thought, it worked once!
