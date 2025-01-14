@@ -11,3 +11,9 @@ import subprocess
 import datetime
 
 print("This is just the beginning ...")
+a = 5
+b = 3
+
+c = a*b
+
+print("c=", c)
