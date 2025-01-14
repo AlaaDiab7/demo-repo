@@ -22,3 +22,5 @@ print("This is working well.") # Here is a check for the update
 #
 # on a second thought, it worked once!
 # Let us see if it works after that again, in five minutes :) 
+
+# Actually, i did it manually now, let us see if it runs automatically...
