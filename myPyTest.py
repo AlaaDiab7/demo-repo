@@ -10,6 +10,11 @@ import shutil
 import subprocess
 import datetime
 
+# Get the current date and time
+now = datetime.datetime.now()
+timestamp = now.strftime('%Y-%m-%d %H:%M:%S')
+
+
 print("This is just the beginning ...")
 a = 5
 b = 3
@@ -24,3 +29,9 @@ print("This is working well.") # Here is a check for the update
 # Let us see if it works after that again, in five minutes :) 
 
 # Actually, i did it manually now, let us see if it runs automatically...
+print(datetime.date.today())
+# will this come?
+if a > b:
+    print("it is dinner time!")
+else: 
+    print("let us work further!")
