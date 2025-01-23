@@ -37,3 +37,4 @@ else:
     print("let us work further!")
     
 myString = "Today, there is not time to waste."
+Q1String = "What is the reason of all problems in  the simulation?"
