@@ -35,3 +35,5 @@ if a > b:
     print("it is dinner time!")
 else: 
     print("let us work further!")
+    
+myString = "Today, there is not time to waste."
